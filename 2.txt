@@ -1,2 +1,2 @@
 This is modified for branch f2 2.txt.
-pls pull before push.
+pls pull before push.check
